@@ -10,7 +10,7 @@ namespace CsharpTest1
     {
         static void Main(string[] args)
         {
-            //System.
+            
         }
     }
 }
